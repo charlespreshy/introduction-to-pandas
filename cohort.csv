@@ -1,0 +1,10 @@
+s/n,firstname,surname,course,sex,readiness,progress
+2020-CO-011,Olorunfemi,Omotayo,Machine learning,M,8,8
+2020-CO-008,Precious,Charles,Machine learning,F,8,9
+2020-CO-002,Chidinma,Okoye,Machine learning,F,6,6
+2020-CO-003,Amanze,Obinna,Django,M,8,8
+2020-CO-009,Chidozie,Franklin,Django,M,8,9
+2020-CO-004,Naomi,Anyaku,Django,F,6,6
+2020-CO-013,Obinna,Kalu,Android,M,8,8
+2020-CO-005,Chibuzor,James,Django,M,8,9
+2020-CO-012,Adindu,Chinatu,Android,M,6,6
